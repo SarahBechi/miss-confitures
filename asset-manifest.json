@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/miss-confitures/static/css/main.cee6728f.chunk.css",
+    "main.js": "/miss-confitures/static/js/main.867a9b0d.chunk.js",
+    "main.js.map": "/miss-confitures/static/js/main.867a9b0d.chunk.js.map",
+    "runtime-main.js": "/miss-confitures/static/js/runtime-main.3bb63425.js",
+    "runtime-main.js.map": "/miss-confitures/static/js/runtime-main.3bb63425.js.map",
+    "static/css/2.e048c457.chunk.css": "/miss-confitures/static/css/2.e048c457.chunk.css",
+    "static/js/2.dec84eb2.chunk.js": "/miss-confitures/static/js/2.dec84eb2.chunk.js",
+    "static/js/2.dec84eb2.chunk.js.map": "/miss-confitures/static/js/2.dec84eb2.chunk.js.map",
+    "index.html": "/miss-confitures/index.html",
+    "precache-manifest.43df1cdc5ec147a035a38985d59e4394.js": "/miss-confitures/precache-manifest.43df1cdc5ec147a035a38985d59e4394.js",
+    "service-worker.js": "/miss-confitures/service-worker.js",
+    "static/css/2.e048c457.chunk.css.map": "/miss-confitures/static/css/2.e048c457.chunk.css.map",
+    "static/css/main.cee6728f.chunk.css.map": "/miss-confitures/static/css/main.cee6728f.chunk.css.map",
+    "static/js/2.dec84eb2.chunk.js.LICENSE.txt": "/miss-confitures/static/js/2.dec84eb2.chunk.js.LICENSE.txt",
+    "static/media/cover_half_res.webp": "/miss-confitures/static/media/cover_half_res.4a94fc48.webp",
+    "static/media/ecolo.jpg": "/miss-confitures/static/media/ecolo.3ccd5c6d.jpg",
+    "static/media/email.png": "/miss-confitures/static/media/email.161ec45a.png",
+    "static/media/engineer.png": "/miss-confitures/static/media/engineer.5c54bdd5.png",
+    "static/media/healthyJam.png": "/miss-confitures/static/media/healthyJam.37a8e9d0.png",
+    "static/media/ingredient.png": "/miss-confitures/static/media/ingredient.7130413d.png",
+    "static/media/jar.png": "/miss-confitures/static/media/jar.bbaa9fbd.png",
+    "static/media/logo.png": "/miss-confitures/static/media/logo.89994fb0.png",
+    "static/media/phone.png": "/miss-confitures/static/media/phone.03b166b8.png",
+    "static/media/stevia.png": "/miss-confitures/static/media/stevia.bebd2eef.png",
+    "static/media/store.png": "/miss-confitures/static/media/store.6f49504b.png",
+    "static/media/toteBag.png": "/miss-confitures/static/media/toteBag.0fa82b5c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bb63425.js",
+    "static/css/2.e048c457.chunk.css",
+    "static/js/2.dec84eb2.chunk.js",
+    "static/css/main.cee6728f.chunk.css",
+    "static/js/main.867a9b0d.chunk.js"
+  ]
+}
